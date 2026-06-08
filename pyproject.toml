@@ -1,0 +1,18 @@
+[project]
+name = "comfy-audio-nodes"
+description = "A small collection of ComfyUI audio nodes, starting with peak and RMS normalization."
+version = "1.0.0"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = []
+classifiers = [
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Repository = "https://github.com/dnnagy/comfy-audio-nodes"
+"Bug Tracker" = "https://github.com/dnnagy/comfy-audio-nodes/issues"
+
+[tool.comfy]
+PublisherId = "nagydaniel"
+DisplayName = "Comfy Audio Nodes"
