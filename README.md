@@ -1,5 +1,19 @@
 # Comfy Audio Nodes
 
+> [!WARNING]
+> **Abandoned repository**
+>
+> This repository is no longer maintained.
+>
+> Please use **Comfy Random Toolpack** instead:
+> `https://github.com/dnnagy/comfy-random-toolpack`
+>
+> Audio nodes were moved there under the `CRTP_` namespace:
+> - `CRTP_NormalizeAudio`
+> - `CRTP_AudioProperties`
+> - `CRTP_SplitAudioChannels`
+> - `CRTP_MergeAudioChannels`
+
 A small collection of ComfyUI audio utility nodes for normalizing volume,
 inspecting audio properties, and splitting/merging channels.
 
